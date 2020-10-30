@@ -1,0 +1,13 @@
+C:\Users\A.W. Wielaard\OneDrive - Windesheim Office365\Leerjaar 2 HBO\C#\TentamenOefening\OefenenTentamen\OefenenTentamen\bin\Debug\netcoreapp3.1\OefenenTentamen.exe
+C:\Users\A.W. Wielaard\OneDrive - Windesheim Office365\Leerjaar 2 HBO\C#\TentamenOefening\OefenenTentamen\OefenenTentamen\bin\Debug\netcoreapp3.1\OefenenTentamen.deps.json
+C:\Users\A.W. Wielaard\OneDrive - Windesheim Office365\Leerjaar 2 HBO\C#\TentamenOefening\OefenenTentamen\OefenenTentamen\bin\Debug\netcoreapp3.1\OefenenTentamen.runtimeconfig.json
+C:\Users\A.W. Wielaard\OneDrive - Windesheim Office365\Leerjaar 2 HBO\C#\TentamenOefening\OefenenTentamen\OefenenTentamen\bin\Debug\netcoreapp3.1\OefenenTentamen.runtimeconfig.dev.json
+C:\Users\A.W. Wielaard\OneDrive - Windesheim Office365\Leerjaar 2 HBO\C#\TentamenOefening\OefenenTentamen\OefenenTentamen\bin\Debug\netcoreapp3.1\OefenenTentamen.dll
+C:\Users\A.W. Wielaard\OneDrive - Windesheim Office365\Leerjaar 2 HBO\C#\TentamenOefening\OefenenTentamen\OefenenTentamen\bin\Debug\netcoreapp3.1\OefenenTentamen.pdb
+C:\Users\A.W. Wielaard\OneDrive - Windesheim Office365\Leerjaar 2 HBO\C#\TentamenOefening\OefenenTentamen\OefenenTentamen\obj\Debug\netcoreapp3.1\OefenenTentamen.csprojAssemblyReference.cache
+C:\Users\A.W. Wielaard\OneDrive - Windesheim Office365\Leerjaar 2 HBO\C#\TentamenOefening\OefenenTentamen\OefenenTentamen\obj\Debug\netcoreapp3.1\OefenenTentamen.AssemblyInfoInputs.cache
+C:\Users\A.W. Wielaard\OneDrive - Windesheim Office365\Leerjaar 2 HBO\C#\TentamenOefening\OefenenTentamen\OefenenTentamen\obj\Debug\netcoreapp3.1\OefenenTentamen.AssemblyInfo.cs
+C:\Users\A.W. Wielaard\OneDrive - Windesheim Office365\Leerjaar 2 HBO\C#\TentamenOefening\OefenenTentamen\OefenenTentamen\obj\Debug\netcoreapp3.1\OefenenTentamen.csproj.CoreCompileInputs.cache
+C:\Users\A.W. Wielaard\OneDrive - Windesheim Office365\Leerjaar 2 HBO\C#\TentamenOefening\OefenenTentamen\OefenenTentamen\obj\Debug\netcoreapp3.1\OefenenTentamen.dll
+C:\Users\A.W. Wielaard\OneDrive - Windesheim Office365\Leerjaar 2 HBO\C#\TentamenOefening\OefenenTentamen\OefenenTentamen\obj\Debug\netcoreapp3.1\OefenenTentamen.pdb
+C:\Users\A.W. Wielaard\OneDrive - Windesheim Office365\Leerjaar 2 HBO\C#\TentamenOefening\OefenenTentamen\OefenenTentamen\obj\Debug\netcoreapp3.1\OefenenTentamen.genruntimeconfig.cache
